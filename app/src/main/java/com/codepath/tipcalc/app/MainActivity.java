@@ -34,5 +34,7 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    public
+    public void tip1(amt) {
+
+    }
 }
